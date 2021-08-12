@@ -1,0 +1,26 @@
+    body {
+        padding: 10%;
+        background-color: bisque;
+    }
+    
+    .role {
+        color: cornflowerblue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 0%;
+    }
+    
+    .timeline {
+        color: cornflowerblue;
+        font-family: cursive;
+        margin: 0%;
+    }
+    
+    h3 {
+        color: crimson;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    h2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: indianred;
+    }
